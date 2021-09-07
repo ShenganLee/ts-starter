@@ -1,0 +1,4 @@
+
+import { hellowWorld } from './'
+
+hellowWorld()
