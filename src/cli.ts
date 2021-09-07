@@ -1,4 +1,0 @@
-
-import { hellowWorld } from './'
-
-hellowWorld()
