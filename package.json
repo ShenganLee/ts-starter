@@ -1,4 +1,16 @@
 {
+    "name": "ts-starter",
+    "version": "0.0.1",
+    "license": "MIT",
+    "author": "ShenganLee <lsa1669778762@gmail.com>",
+    "description": "Boilerplate for TypeScript projects",
+    "repository": "https://github.com/ShenganLee/ts-starter",
+    "keywords": [
+        "typescript",
+        "boilerplate"
+    ],
+    "main": "./dist/tsc/index.js",
+    "types": "./dist/tsc/index.d.ts",
     "devDependencies": {
         "@types/jest": "^27.0.1",
         "@types/node": "^16.7.12",

@@ -1,4 +1,4 @@
-import { hellowWorld } from "../src";
+import { hellowWorld } from "../src/index";
 
 test("Hellow World", async () => {
     const data = await hellowWorld()
